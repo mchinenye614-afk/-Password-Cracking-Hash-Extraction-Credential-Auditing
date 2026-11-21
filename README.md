@@ -7,7 +7,7 @@ This was the project I was most excited about in Week 3 of my cybersecurity jour
 
 I had the opportunity to get hands-on experience with password-recovery and auditing techniques through two practical labs:
 
-🔹 W3-PM1: John the Ripper & Johnny GUI
+🔹 John the Ripper & Johnny GUI
 
 * Extracted password hashes from password-protected PDF files.
 * Used John the Ripper to perform offline dictionary attacks.
