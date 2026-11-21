@@ -14,7 +14,7 @@ I had the opportunity to get hands-on experience with password-recovery and audi
 * Explored Johnny GUI to manage and monitor password-cracking sessions.
 * Successfully recovered lab passwords and captured the lab flags.
 
-🔹 W3-PM2: NetworkWalks Hash Calculator & Password Cracker
+🔹 NetworkWalks Hash Calculator & Password Cracker
 
 * Used browser-based hashing and password-auditing utilities.
 * Extracted PDF hashes in the $pdf$ format.
@@ -23,13 +23,13 @@ I had the opportunity to get hands-on experience with password-recovery and audi
 
 💡 Key Lessons Learned:
 
-* How password hashes are extracted and analyzed.
+How password hashes are extracted and analyzed.
 * How offline dictionary attacks work.
 * Why weak and predictable passwords are vulnerable.
 * The importance of strong, unique passwords.
 * How to document findings and recommend security improvements.
 
-🛡️ Security Recommendations:
+🛡️# Security Recommendations:
 
 * Use long, unique passwords or passphrases.
 * Use password managers.
